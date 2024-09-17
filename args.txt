@@ -1,0 +1,7 @@
+--no-video-thumbnails
+--no-captions
+--no-metadata-json
+--igtv
+--sanitize-paths
+--abort-on=302,400,429
+--no-iphone
