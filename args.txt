@@ -4,4 +4,3 @@
 --igtv
 --sanitize-paths
 --abort-on=302,400,429
---no-iphone
